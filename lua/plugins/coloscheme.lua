@@ -1,4 +1,3 @@
-local colorscheme = require("lazyvim.plugins.colorscheme")
 return {
   "catppuccin/nvim",
   lazy = true,
